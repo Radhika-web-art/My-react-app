@@ -1,0 +1,441 @@
+.bxbx-arrow-back {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  height: 20px;
+  left: 65px;
+  mix-blend-mode: normal;
+  padding: 3.0px 2.3px;
+  position: absolute;
+  top: 67px;
+  width: 26px;
+}
+.carbonpassword {
+  align-items: center;
+  display: flex;
+  height: 20px;
+  left: 94px;
+  mix-blend-mode: normal;
+  padding: 0 1.0px;
+  position: absolute;
+  top: 334px;
+  transform: rotate(180deg);
+  width: 20px;
+}
+.contact {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 5px 5px 60px #1727551a;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 57px;
+  margin-top: 15.0px;
+  min-width: 108px;
+  mix-blend-mode: normal;
+  padding: 0 10.5px;
+}
+.contact-us {
+  letter-spacing: 0;
+  min-height: 20px;
+  min-width: 85px;
+  mix-blend-mode: normal;
+}
+.donors {
+  letter-spacing: 0;
+  margin-left: 50px;
+  min-height: 25px;
+  mix-blend-mode: normal;
+}
+.ellipse-4 {
+  height: 52px;
+  margin-top: 10.0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 68px;
+}
+.email-id {
+  height: 14px;
+  left: 130px;
+  letter-spacing: 2.55px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 258px;
+  white-space: nowrap;
+  width: 135px;
+}
+.evaemail-outline {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 94px;
+  mix-blend-mode: normal;
+  padding: 0 2px;
+  position: absolute;
+  top: 258px;
+  transform: rotate(180deg);
+  width: 24px;
+}
+.frame-20 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  margin-left: 237px;
+  margin-top: 11.0px;
+  min-width: 527px;
+}
+.group-215 {
+  align-items: flex-end;
+  display: flex;
+  height: 669px;
+  left: 1056px;
+  min-width: 548px;
+  position: absolute;
+  top: 160px;
+}
+.header {
+  align-items: center;
+  display: flex;
+  height: 82px;
+  left: 286px;
+  min-width: 1224px;
+  position: absolute;
+  top: 0;
+}
+.login {
+  align-items: flex-start;
+  background-color: #f8f9ff;
+  display: flex;
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 1440px;
+}
+.login-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 5px 5px 60px #1727551a;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 39px;
+  margin-top: 15.0px;
+  min-width: 76px;
+  mix-blend-mode: normal;
+  padding: 0 13.5px;
+}
+.login-2 {
+  letter-spacing: 0;
+  min-height: 20px;
+  min-width: 47px;
+  mix-blend-mode: normal;
+}
+.login-3 {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  left: 233px;
+  letter-spacing: 4.10px;
+  line-height: 28.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+}
+.login-4 {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 209px;
+  letter-spacing: 3.40px;
+  line-height: 28.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 409px;
+  white-space: nowrap;
+  width: 135px;
+}
+.mentorship {
+  letter-spacing: 0;
+  margin-left: 50px;
+  min-height: 25px;
+  min-width: 121px;
+  mix-blend-mode: normal;
+}
+.overlap-group {
+  height: 1037px;
+  margin-left: -205px;
+  position: relative;
+  width: 1604px;
+}
+.overlap-group1 {
+  height: 687px;
+  margin-bottom: -18px;
+  margin-left: -12px;
+  position: relative;
+  width: 556px;
+}
+.overlap-group2 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+.password {
+  height: 14px;
+  left: 130px;
+  letter-spacing: 2.55px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  white-space: nowrap;
+  width: 135px;
+}
+.place {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  left: 247px;
+  letter-spacing: 3.40px;
+  line-height: 28.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 532px;
+  white-space: nowrap;
+  width: 287px;
+}
+.place-1 {
+  color: #ef2a82cc;
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 25px;
+  min-width: 63px;
+  mix-blend-mode: normal;
+}
+.rectangle-18 {
+  height: 666px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 556px;
+}
+.rectangle-19 {
+  background-color: var(--white);
+  height: 43px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 406px;
+}
+.rectangle-20 {
+  background-color: var(--white);
+  height: 43px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 317px;
+  width: 406px;
+}
+.rectangle-21 {
+  background-color: var(--tory-blue);
+  height: 1px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 359px;
+  width: 406px;
+}
+.rectangle-22 {
+  background-color: var(--tory-blue);
+  height: 1px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 495px;
+  width: 406px;
+}
+.rectangle-23 {
+  background-color: var(--blue-zodiac);
+  border-radius: 21.5px;
+  height: 43px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 400px;
+  width: 406px;
+}
+.rectangle-24 {
+  background-color: #ef2a82;
+  border-radius: 21.5px;
+  box-shadow: 0px 4px 4px #050505;
+  height: 43px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 524px;
+  width: 412px;
+}
+.rectangle-26 {
+  background-color: var(--tory-blue);
+  height: 1px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 286px;
+  width: 406px;
+}
+.rectangle-421 {
+  height: 1px;
+  left: 1400px;
+  position: absolute;
+  top: 650px;
+  width: 1px;
+}
+.saly-6 {
+  height: 197px;
+  left: 144px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+.span {
+  letter-spacing: 0.24px;
+}
+.text-1 {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  left: 130px;
+  letter-spacing: 2.55px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 170px;
+  width: 343px;
+}
+.text-2 {
+  color: transparent;
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  left: 216px;
+  letter-spacing: 2.04px;
+  line-height: 17.2px;
+  position: absolute;
+  top: 465px;
+  white-space: nowrap;
+  width: 283px;
+}
+.title {
+  align-self: flex-start;
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  letter-spacing: 0;
+  margin-left: 15px;
+  margin-top: -4px;
+  min-height: 91px;
+  min-width: 124px;
+  mix-blend-mode: normal;
+}
+.undraw-loginre4vu2-1 {
+  height: 576px;
+  left: 240px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 322px;
+  width: 774px;
+}
+.vector {
+  height: 14px;
+  mix-blend-mode: normal;
+  width: 21px;
+}
+.vector-1 {
+  height: 16px;
+  mix-blend-mode: normal;
+  transform: rotate(-180deg);
+  width: 20px;
+}
+.vector-2 {
+  height: 3px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-180deg);
+  width: 3px;
+}
+.vector-3 {
+  height: 1024px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 1254px;
+}
+.vector-4 {
+  height: 18px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 18px;
+}
+.want-to-be-a-donar {
+  left: 130px;
+  letter-spacing: 2.04px;
+  line-height: 17.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 505px;
+  white-space: nowrap;
+  width: 217px;
+}
+.who-we-are {
+  letter-spacing: 0;
+  margin-left: 50px;
+  min-height: 25px;
+  min-width: 118px;
+  mix-blend-mode: normal;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900");
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

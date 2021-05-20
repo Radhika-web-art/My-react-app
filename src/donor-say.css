@@ -1,0 +1,80 @@
+.group-399 {
+  height: 397px;
+  position: absolute;
+  top: 0;
+  width: 481px;
+}
+.group-400 {
+    
+  height: 397px;
+  left: 337px;
+  position: absolute;
+  top: 0;
+  width: 482px;
+}
+.group-401 {
+  height: 397px;
+  left: 662px;
+  position: absolute;
+  top: 0;
+  width: 507px;
+}
+.group-402 {
+  align-items: flex-start;
+  display: flex;
+  height: 237px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1059px;
+  position: absolute;
+  top: 133px;
+}
+.group-477 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 456px;
+  width: 1063px;
+  position:relative;
+  left: 20%;
+}
+.overlap-group {
+  height: 370px;
+  margin-right: 4.0px;
+  margin-top: 22px;
+  position: relative;
+  width: 1059px;
+}
+.overlap-group1 {
+  height: 397px;
+  margin-top: -75.04px;
+  position: relative;
+  width: 1169px;
+}
+.text-1 {
+  left: 2px;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1023px;
+}
+.title {
+  letter-spacing: 5.60px;
+  line-height: 55.4px;
+  margin-right: 1.01px;
+  min-height: 64px;
+  min-width: 615px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+  width: 615px;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900");
+* {
+  box-sizing: border-box;
+}
